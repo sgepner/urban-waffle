@@ -1,10 +1,12 @@
 #include <iostream>
-#include "mylibrary.h"
+#include "mylib.h"
 
 using namespace std;
 
 int main()
 {
 	int x = 5; 
-	cout << "Hello with VI!!" << endl;
+	if(x % 4 != 2)
+		cout << "Nie" << endl;
+	cout << "Hello with VIM!!" << endl;
 }
