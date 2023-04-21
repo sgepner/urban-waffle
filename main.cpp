@@ -8,5 +8,5 @@ int main()
 	int x = 5; 
 	if(x % 4 != 2)
 		cout << "Nie" << endl;
-	cout << "Hello with VIM!!" << endl;
+	cout << "Hello with NANO" << endl;
 }
