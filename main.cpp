@@ -1,10 +1,11 @@
 #include <iostream>
-#include "mylibrary.h"
+#include "mylib"
 
 using namespace std;
 
 int main()
 {
-	int x = 5; 
-	cout << "Hello with VI!!" << endl;
+	int x = 2;
+       	// Co tu mialo byc?	
+	cout << "Hello with NANO" << endl;
 }
